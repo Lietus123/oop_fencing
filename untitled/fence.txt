@@ -1,0 +1,81 @@
+
+Fencer is from: Latvia
+His Name Surname is: Maksims Lasijs
+He is: Male
+His coach is: Daniels Loginovs
+His height is: 185.0
+His weight is: 72.5
+His points per match is: 10
+His time of match is: 12.34
+His points per minute is: 0.8103727714748784
+-----------------------
+Fencer is from: Latvia
+His Name Surname is: Nikita Anisko
+He is: Male
+His coach is: Daniels Loginovs
+His height is: 188.0
+His weight is: 70.3
+His points per match is: 11
+His time of match is: 9.47
+His points per minute is: 1.1615628299894403
+-----------------------
+Fencer is from: Ukraine
+His Name Surname is: Viacheslav Agalakov
+He is: Male
+His coach is: Bogdan Nikishin
+His height is: 192.0
+His weight is: 68.7
+His points per match is: 13
+His time of match is: 14.56
+His points per minute is: 0.8928571428571428
+-----------------------
+Fencer is from: Ukraine
+His Name Surname is: Serhiy Chkalikov
+He is: Male
+His coach is: Bogdan Nikishin
+His height is: 182.0
+His weight is: 65.9
+His points per match is: 6
+His time of match is: 7.21
+His points per minute is: 0.8321775312066574
+-----------------------
+Fencer is from: Estonia
+Her Name Surname is: Katrina Lehis
+She is: Female
+Her coach is: Sergej Novosjolov
+Her height is: 185.0
+Her weight is: 60.5
+Her points per match is: 10
+Her time of match is: 11.34
+Her points per minute is: 0.8818342151675486
+-----------------------
+Fencer is from: Estonia
+Her Name Surname is: Dinara Kirpu
+She is: Female
+Her coach is: Sergej Novosjolov
+Her height is: 179.0
+Her weight is: 59.5
+Her points per match is: 8
+Her time of match is: 12.54
+Her points per minute is: 0.6379585326953748
+-----------------------
+Fencer is from: German
+Her Name Surname is: Alisa Klasic
+She is: Femaale
+Her coach is: Aleksandrs Peterson
+Her height is: 175.0
+Her weight is: 62.5
+Her points per match is: 9
+Her time of match is: 12.84
+Her points per minute is: 0.7009345794392523
+-----------------------
+Fencer is from: German
+Her Name Surname is: Sofia Grozneva
+She is: Femaale
+Her coach is: Aleksandrs Peterson
+Her height is: 173.0
+Her weight is: 55.5
+Her points per match is: 7
+Her time of match is: 14.94
+Her points per minute is: 0.4685408299866131
+-----------------------
